@@ -12,3 +12,6 @@ plotly==5.4.0
 streamlit==1.2.0
 tqdm==4.62.3
 yfinance==0.1.67
+tensorflow==2.7.0
+fbprophet==0.7.1
+pystan==2.19.1.1
