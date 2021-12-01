@@ -13,4 +13,5 @@ finplot==1.8
 mplfinance==0.12.7a17
 tensorflow==2.7.0
 fbprophet==0.7.1
+pystan==2.19.1.1
 
