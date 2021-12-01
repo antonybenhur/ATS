@@ -11,3 +11,6 @@ autots==0.3.10
 tqdm==4.62.3
 finplot==1.8
 mplfinance==0.12.7a17
+tensorflow==2.7.0
+fbprophet==0.7.1
+
